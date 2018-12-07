@@ -1,0 +1,43 @@
+{
+    "workbench.colorTheme": "Material Theme High Contrast",
+    "materialTheme.fixIconsRunning": true,
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.statusBar.visible": false,
+    "explorer.openEditors.visible": 0,
+    "editor.fontFamily": "Roboto Mono, monospace",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    },
+    "files.autoSave": "afterDelay",
+    "[yaml]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+        "editor.autoIndent": false
+    },
+    "editor.wrappingIndent": "same",
+    "fileHeaderComment.parameter": {
+        "*": {
+            "commentbegin": "/*",
+            "commentprefix": " *",
+            "commentend": " */",
+            "company": "Thinxtra",
+            "name": "jrfoehn"
+        }
+    },
+    "fileHeaderComment.template": {
+        "*":[
+            "${commentbegin}",
+            "${commentprefix} Created by ${name} on ${date}",
+            "${commentprefix} ",
+            "${commentprefix} Copyright (c) ${year} ${company}",
+            "${commentend}"
+        ]
+    },
+    "files.autoSave": "onWindowChange",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
+    "window.menuBarVisibility": "visible",
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false
+}
