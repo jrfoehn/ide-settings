@@ -1,0 +1,39 @@
+{
+    "build": {
+        "@saveall": true
+    },
+    "instance": {
+        "@automaticShutdown": "60"
+    },
+    "language": {
+        "tern_defs": {
+            "json()": {
+                "browser": {
+                    "enabled": true
+                },
+                "ecma5": {
+                    "enabled": true
+                },
+                "jQuery": {
+                    "enabled": true
+                }
+            }
+        }
+    },
+    "run": {
+        "configs": {
+            "@inited": true,
+            "json()": {}
+        }
+    },
+    "welcome": {
+        "@first": true
+    },
+    "typescript": {
+        "@formatOnSave": true
+    },
+    "python": {
+        "@version": "python3",
+        "@formatOnSave": true
+    }
+}
