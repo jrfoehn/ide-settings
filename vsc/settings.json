@@ -1,7 +1,7 @@
 {
     "workbench.colorTheme": "Material Theme High Contrast",
     "materialTheme.fixIconsRunning": true,
-    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.statusBar.visible": false,
     "explorer.openEditors.visible": 0,
     "editor.fontFamily": "Roboto Mono, monospace",
@@ -39,5 +39,6 @@
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\sysnative\\bash.exe",
     "window.menuBarVisibility": "visible",
     "window.zoomLevel": 0,
-    "explorer.confirmDragAndDrop": false
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontSize": 14
 }
