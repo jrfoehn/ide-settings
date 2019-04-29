@@ -1,0 +1,6 @@
+{
+    "installed_packages": [
+        "Material Theme", 
+        "PackageSync"
+    ]
+}
